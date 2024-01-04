@@ -7,7 +7,7 @@
 
 O Projeto  tem como objetivo apresentar o Cordel Moderno do poeta Milton Duarte de uma forma criativa.  
 
-| vitrine_Dev     |    |
+| Vitrine_Dev     |    |
 | ---------- | --- |
 | ⭐ Nome  | **Cordel Moderno**
 | 🛠️ Tecnologias    | HTML , CSS 
@@ -21,4 +21,4 @@ O Projeto  tem como objetivo apresentar o Cordel Moderno do poeta Milton Duarte 
 
 
 ## Site original
-[Clique aqui para abrir o site original](href="https://www.recantodasletras.com.br/poesias/3186743) 
+[Clique aqui para abrir o site original](https://www.recantodasletras.com.br/poesias/3186743)
